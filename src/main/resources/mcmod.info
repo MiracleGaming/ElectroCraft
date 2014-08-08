@@ -1,15 +1,16 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "electrocraft",
+  "name": "ElectroCraft",
+  "description": "Electronic Mod",
+  "version": "0.1a",
+  "mcversion": "1.6.4",
+  "logoFile": "",
   "url": "",
   "updateUrl": "",
-  "authors": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["MiracleGaming"],
+  "credits": "Pahimar",
+  "parent": "",
   "screenshots": [],
   "dependencies": []
 }

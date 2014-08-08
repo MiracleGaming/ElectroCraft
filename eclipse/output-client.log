@@ -11,3 +11,73 @@
 2014-08-08 01:07:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
 2014-08-08 01:07:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
 2014-08-08 01:07:07 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 01:28:46 [CLIENT] [INFO] Stopping!
+2014-08-08 01:42:13 [CLIENT] [INFO] Setting user: Player406
+2014-08-08 01:42:13 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 01:42:14 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 01:42:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 01:42:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_656_null.png
+2014-08-08 01:42:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 01:42:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_656_null.png
+2014-08-08 01:42:17 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 01:43:28 [CLIENT] [INFO] [CHAT] That player cannot be found
+2014-08-08 01:44:56 [CLIENT] [INFO] [CHAT] Given Pumpkin Pie (ID 400) * 1 to Player406
+2014-08-08 01:45:13 [CLIENT] [INFO] Stopping!
+2014-08-08 01:45:35 [CLIENT] [INFO] Setting user: Player171
+2014-08-08 01:45:36 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 01:45:36 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 01:45:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 01:45:39 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3256_null.png
+2014-08-08 01:45:39 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 01:45:39 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3256_null.png
+2014-08-08 01:45:40 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 01:46:28 [CLIENT] [INFO] [CHAT] Given item.null.name (ID 3256) * 1 to Player171
+2014-08-08 01:47:17 [CLIENT] [INFO] Stopping!
+2014-08-08 01:47:49 [CLIENT] [INFO] Setting user: Player375
+2014-08-08 01:47:49 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 01:47:50 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 01:47:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 01:47:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3000_null.png
+2014-08-08 01:47:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 01:47:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3000_null.png
+2014-08-08 01:47:53 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 01:48:13 [CLIENT] [INFO] [CHAT] Given item.null.name (ID 3000) * 1 to Player375
+2014-08-08 01:48:30 [CLIENT] [INFO] Stopping!
+2014-08-08 02:03:00 [CLIENT] [INFO] Setting user: Player62
+2014-08-08 02:03:01 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 02:03:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 02:03:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:03:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3000_Destruct 'O' Catalyst.png
+2014-08-08 02:03:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:03:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3000_Destruct 'O' Catalyst.png
+2014-08-08 02:03:05 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 02:04:20 [CLIENT] [INFO] Stopping!
+2014-08-08 02:04:56 [CLIENT] [INFO] Setting user: Player625
+2014-08-08 02:04:56 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 02:04:57 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 02:04:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:04:59 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3000_destructOCatalyst.png
+2014-08-08 02:04:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:04:59 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_3000_destructOCatalyst.png
+2014-08-08 02:05:00 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 02:09:47 [CLIENT] [INFO] Setting user: Player453
+2014-08-08 02:09:47 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 02:09:48 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 02:09:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:09:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:09:51 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 02:10:44 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-08-08 02:10:47 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-08-08 02:10:48 [CLIENT] [INFO] [CHAT] doDaylightCycle = true
+2014-08-08 02:10:51 [CLIENT] [INFO] [CHAT] Game rule has been updated
+2014-08-08 02:11:04 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-08-08 02:11:04 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-08-08 02:11:05 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-08-08 02:11:05 [CLIENT] [INFO] [CHAT] Game rule has been updated
+2014-08-08 02:11:09 [CLIENT] [INFO] Stopping!
+2014-08-08 02:14:26 [CLIENT] [INFO] Setting user: Player328
+2014-08-08 02:14:26 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 02:14:27 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 02:14:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:14:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:14:30 [CLIENT] [SEVERE] Realms: Server not available!

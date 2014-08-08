@@ -1,0 +1,9 @@
+package com.miraclegaming.electrocraft.item;
+
+public class ItemDestructOCatalyst extends ItemElectroCraft 
+{
+	public ItemDestructOCatalyst()
+	{
+		super();
+	}
+}

@@ -1,0 +1,10 @@
+package com.miraclegaming.electrocraft.item;
+
+public class ItemDestructOCatalyst extends ItemElectroCraft 
+{
+	//NO ID's in 1.7
+	public ItemDestructOCatalyst()
+	{
+		super(400);
+	}
+}

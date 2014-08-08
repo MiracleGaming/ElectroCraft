@@ -1,0 +1,13 @@
+package com.miraclegaming.electrocraft.item;
+
+import net.minecraft.item.Item;
+
+public class ItemElectroCraft extends Item 
+{
+	//NO ID's in 1.7
+	public ItemElectroCraft(int ID) {
+		super(ID);
+		
+	}
+	
+}

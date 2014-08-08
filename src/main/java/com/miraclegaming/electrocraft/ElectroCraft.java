@@ -1,5 +1,6 @@
 package com.miraclegaming.electrocraft;
 
+import com.miraclegaming.electrocraft.init.ModItems;
 import com.miraclegaming.electrocraft.proxy.IProxy;
 import com.miraclegaming.electrocraft.reference.Reference;
 import com.miraclegaming.electrocraft.utility.LogHelper;
@@ -26,6 +27,8 @@ public class ElectroCraft
         //ConfigurationHandler.Init(event.getSuggestedConfigurationFile());
         //FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         LogHelper.info("pre-Initialization Complete!");
+        
+        ModItems.init();
     }
 
     @Mod.EventHandler

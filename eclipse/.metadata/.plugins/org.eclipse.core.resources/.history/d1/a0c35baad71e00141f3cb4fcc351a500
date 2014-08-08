@@ -1,0 +1,14 @@
+package com.miraclegaming.electrocraft.init;
+
+import com.miraclegaming.electrocraft.item.ItemDestructOCatalyst;
+import com.miraclegaming.electrocraft.item.ItemElectroCraft;
+
+public class ModItems 
+{
+	public static final ItemElectroCraft destructOCatalyst = new ItemDestructOCatalyst();
+	
+	public void init()
+	{
+		
+	}
+}

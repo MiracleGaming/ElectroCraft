@@ -1,0 +1,42 @@
+package com.miraclegaming.electrocraft.handler;
+
+import java.io.File;
+
+import net.minecraftforge.common.Configuration;
+
+import com.miraclegaming.electrocraft.reference.Reference;
+
+public class ConfigurationHandler
+{
+    public static Configuration configuration;
+    public static boolean testValue = false;
+
+    public static void Init(File configFile)
+
+    {
+        if (configuration == null)
+        {
+            Configuration configuration = new Configuration(configFile);
+            //loadConfiguration();
+        }
+    }
+
+    //@SubscribeEvent
+    public void onConfigurationChangedEvent(ConfigChangedEvent.OnConfigChangedEvent event)
+    {
+        if (event.modID.equalsIgnoreCase(Reference.MOD_ID))
+        {
+            loadConfiguration();
+        }
+    }
+
+    private static void loadConfiguration()
+    {
+        Boolean testValue = configuration.get("configValue", Configuration.CATEGORY_GENERAL, true, "This is an example config value").getBoolean();
+
+        if (configuration.hasChanged())
+        {
+            configuration.save();
+        }
+    }
+}

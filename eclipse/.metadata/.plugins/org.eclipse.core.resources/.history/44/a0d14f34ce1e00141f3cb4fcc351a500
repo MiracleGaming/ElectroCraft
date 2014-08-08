@@ -1,0 +1,6 @@
+package com.miraclegaming.electrocraft.proxy;
+
+public class IProxy 
+{
+
+}

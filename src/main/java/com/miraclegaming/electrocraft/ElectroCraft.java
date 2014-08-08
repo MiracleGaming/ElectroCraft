@@ -1,5 +1,6 @@
 package com.miraclegaming.electrocraft;
 
+import com.miraclegaming.electrocraft.init.ModBlocks;
 import com.miraclegaming.electrocraft.init.ModItems;
 import com.miraclegaming.electrocraft.proxy.IProxy;
 import com.miraclegaming.electrocraft.reference.Reference;
@@ -29,6 +30,7 @@ public class ElectroCraft
         LogHelper.info("pre-Initialization Complete!");
         
         ModItems.init();
+        ModBlocks.init();
     }
 
     @Mod.EventHandler

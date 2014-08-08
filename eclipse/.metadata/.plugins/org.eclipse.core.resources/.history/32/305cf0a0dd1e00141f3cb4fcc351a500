@@ -1,0 +1,8 @@
+package com.miraclegaming.electrocraft.block;
+
+import com.jcraft.jorbis.Block;
+
+public class BlockElectroCraft extends Block 
+{
+	
+}

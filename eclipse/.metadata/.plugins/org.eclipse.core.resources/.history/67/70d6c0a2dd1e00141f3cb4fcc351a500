@@ -1,0 +1,8 @@
+package com.miraclegaming.electrocraft.block;
+
+import net.minecraft.block.Block;
+
+public class BlockElectroCraft extends Block 
+{
+	
+}

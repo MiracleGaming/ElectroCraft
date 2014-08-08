@@ -90,3 +90,38 @@
 2014-08-08 02:14:32 [SERVER] [INFO] Preparing start region for level 0
 2014-08-08 02:14:33 [SERVER] [INFO] Player328[/127.0.0.1:0] logged in with entity id 26 at (267.4355594904466, 18.8549681918353, 554.2405146767167)
 2014-08-08 02:14:33 [SERVER] [INFO] Player328 joined the game
+2014-08-08 02:19:14 [SERVER] [INFO] [Player328: Set game difficulty to Peaceful]
+2014-08-08 02:39:10 [SERVER] [INFO] Stopping server
+2014-08-08 02:39:10 [SERVER] [INFO] Saving players
+2014-08-08 02:39:10 [SERVER] [INFO] Player328 left the game
+2014-08-08 02:39:10 [SERVER] [INFO] Saving worlds
+2014-08-08 02:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-08-08 02:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-08-08 02:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-08-08 02:39:11 [SERVER] [INFO] Stopping server
+2014-08-08 02:39:25 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-08-08 02:39:25 [SERVER] [INFO] Generating keypair
+2014-08-08 02:39:25 [SERVER] [INFO] Preparing start region for level 0
+2014-08-08 02:39:26 [SERVER] [INFO] Player593[/127.0.0.1:0] logged in with entity id 19 at (267.4355594904466, 18.8549681918353, 554.2405146767167)
+2014-08-08 02:39:26 [SERVER] [INFO] Player593 joined the game
+2014-08-08 02:40:00 [SERVER] [INFO] [Player593: Given tile.electrocraft:oreRuby.name (ID 500) * 1 to Player593]
+2014-08-08 02:40:08 [SERVER] [INFO] Stopping server
+2014-08-08 02:40:08 [SERVER] [INFO] Saving players
+2014-08-08 02:40:08 [SERVER] [INFO] Player593 left the game
+2014-08-08 02:40:08 [SERVER] [INFO] Saving worlds
+2014-08-08 02:40:08 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-08-08 02:40:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-08-08 02:40:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-08-08 02:40:08 [SERVER] [INFO] Stopping server
+2014-08-08 02:40:33 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-08-08 02:40:33 [SERVER] [INFO] Generating keypair
+2014-08-08 02:40:33 [SERVER] [INFO] Preparing start region for level 0
+2014-08-08 02:40:34 [SERVER] [INFO] Player125[/127.0.0.1:0] logged in with entity id 26 at (258.0652570023414, 4.0, 548.623112150825)
+2014-08-08 02:40:34 [SERVER] [INFO] Player125 joined the game
+2014-08-08 02:40:56 [SERVER] [INFO] Stopping server
+2014-08-08 02:40:56 [SERVER] [INFO] Saving players
+2014-08-08 02:40:56 [SERVER] [INFO] Player125 left the game
+2014-08-08 02:40:56 [SERVER] [INFO] Saving worlds
+2014-08-08 02:40:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-08-08 02:40:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-08-08 02:40:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End

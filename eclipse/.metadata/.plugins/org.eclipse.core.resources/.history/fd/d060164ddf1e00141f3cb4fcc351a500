@@ -1,0 +1,10 @@
+package com.miraclegaming.electrocraft.block;
+
+public class BlockOreRuby extends BlockElectroCraft 
+{
+	public BlockOreRuby()
+	{
+		super(ID);//setUnlocalizedName = setBlockName in 1.7
+		this.setUnlocalizedName("");
+	}
+}

@@ -1,0 +1,15 @@
+package com.miraclegaming.electrocraft.init;
+
+import com.miraclegaming.electrocraft.block.BlockOreRuby;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModBlocks 
+{
+	public static final BlockOreRuby oreRuby = new BlockOreRuby(500);
+	
+	public static void init()
+	{
+		GameRegistry.registerBlock(oreRuby, "oreRuby");
+	}
+}

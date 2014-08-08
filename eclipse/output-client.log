@@ -81,3 +81,21 @@
 2014-08-08 02:14:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
 2014-08-08 02:14:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
 2014-08-08 02:14:30 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 02:19:14 [CLIENT] [INFO] [CHAT] Set game difficulty to Peaceful
+2014-08-08 02:39:10 [CLIENT] [INFO] Stopping!
+2014-08-08 02:39:16 [CLIENT] [INFO] Setting user: Player593
+2014-08-08 02:39:16 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 02:39:17 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 02:39:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:39:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:39:20 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 02:39:44 [CLIENT] [INFO] [CHAT] That player cannot be found
+2014-08-08 02:40:00 [CLIENT] [INFO] [CHAT] Given tile.electrocraft:oreRuby.name (ID 500) * 1 to Player593
+2014-08-08 02:40:08 [CLIENT] [INFO] Stopping!
+2014-08-08 02:40:24 [CLIENT] [INFO] Setting user: Player125
+2014-08-08 02:40:25 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-08-08 02:40:25 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-08-08 02:40:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:40:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ElectroCraft
+2014-08-08 02:40:29 [CLIENT] [SEVERE] Realms: Server not available!
+2014-08-08 02:40:56 [CLIENT] [INFO] Stopping!

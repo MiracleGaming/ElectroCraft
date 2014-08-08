@@ -1,0 +1,41 @@
+package com.miraclegaming.electrocraft.block;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.client.renderer.texture.IconRegister;
+
+import com.miraclegaming.electrocraft.reference.Reference;
+
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
+
+public class BlockElectroCraft extends Block 
+{
+	public BlockElectroCraft(int ID)
+	{
+		this(ID, Material.rock);
+	}
+	
+	//No ID's in 1.7
+	public BlockElectroCraft(int ID, Material material) {
+		super(ID, material);
+	}
+	
+	@Override
+	public String getUnlocalizedName()
+	{
+		return String.format("tile.%s%s", Reference.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+	}
+	
+	@Override
+	@SideOnly(Side.CLIENT)		//registerIcons = registerBlockIcons & IconRegister = IIconRegister in 1.7
+	public void registerIcons(IconRegister iconRegister)
+	{
+		blockIcon = iconRegister.registerIcon(this.getUnlocalizedName().substring(this.getUnlocalizedName().indexOf(".") + 1));
+	}
+	
+	protected String getUnwrappedUnlocalizedName(String unlocalizedName)
+	{
+		return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
+	}
+}

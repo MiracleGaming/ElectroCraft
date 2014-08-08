@@ -1,0 +1,18 @@
+package com.miraclegaming.electrocraft.block;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockElectroCraft extends Block 
+{
+							//No ID's in 1.7
+	public BlockElectroCraft(int ID, Material material) {
+		super(ID, material);
+	}
+	
+	public BlockElectroCraft()
+	{
+		this(ID, Material.rock);
+	}
+	
+}

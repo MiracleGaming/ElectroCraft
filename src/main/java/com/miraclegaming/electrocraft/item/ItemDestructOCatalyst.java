@@ -7,5 +7,6 @@ public class ItemDestructOCatalyst extends ItemElectroCraft
 	{
 		super(ID);
 		this.setUnlocalizedName("destructOCatalyst"); //For Names class do: Names.Items.DESTRUCT_O_CATALYST
+		this.getContainerItem();
 	}
 }

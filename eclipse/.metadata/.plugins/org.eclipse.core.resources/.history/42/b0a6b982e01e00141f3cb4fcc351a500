@@ -6,9 +6,8 @@ public class ItemDestructOCatalyst extends ItemElectroCraft
 	public ItemDestructOCatalyst(int ID)
 	{
 		super(ID);
-		this.setUnlocalizedName("destructOCatalyst"); //For Names class do: Names.Items.DESTRUCT_O_CATALYST
-		this.setTextureName("destructOCatalyst");
 		this.setMaxStackSize(1);
+		this.setUnlocalizedName("destructOCatalyst"); //For Names class do: Names.Items.DESTRUCT_O_CATALYST
 		this.getContainerItem();
 	}
 }
